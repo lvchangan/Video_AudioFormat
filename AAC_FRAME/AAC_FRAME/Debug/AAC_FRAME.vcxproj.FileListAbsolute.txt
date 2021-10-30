@@ -1,0 +1,2 @@
+D:\GitCode\Video_AudioFormat\AAC_FRAME\AAC_FRAME\Debug\AAC_FRAME.exe
+D:\GitCode\Video_AudioFormat\AAC_FRAME\AAC_FRAME\Debug\AAC_FRAME.pdb
